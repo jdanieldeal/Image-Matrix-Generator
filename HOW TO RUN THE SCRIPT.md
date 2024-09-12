@@ -1,5 +1,7 @@
 ### How to Run the Python Program on macOS and Windows (Simple Steps)
 
+Download raw file **image_matrix_generator_1.0.py** into your Downloads folder
+
 #### For macOS:
 1. **Check if Python is already installed**:
    - Open **Terminal** (press `Cmd + Space`, type "Terminal", and press `Enter`).
