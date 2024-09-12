@@ -24,7 +24,7 @@
 4. **Run Your Program**:
    - Navigate to the folder where your script is saved. For example, if it's in your Downloads folder, type:
      ```bash
-     cd ~/Downloads/Image-Matrix-Generator-1.0/
+     cd ~/Downloads/
      ```
    - Then, run the program by typing:
      ```bash
@@ -61,7 +61,7 @@
 4. **Run Your Program**:
    - Open **Command Prompt** and type:
      ```cmd
-     cd Downloads\Image-Matrix-Generator-1.0\
+     cd Downloads\
      ```
    - Then, run your script by typing:
      ```cmd
