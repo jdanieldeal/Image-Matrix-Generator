@@ -4,6 +4,11 @@
 
 The **Image Matrix Generator** is a Python program that allows users to create a matrix of images arranged in a grid format. You can specify the number of rows and columns, customize the border thickness and color, and select input and output folders for image processing. The program generates a single output image for each batch of images in the input folder, forming a grid-like matrix.
 
+## Why?
+
+I create risograph animations (sort of) and part of the process of creating the animation is putting the frames from a video into a grid, then printing the image of the grid onto a piece of paper. Check my instagram for examples https://www.instagram.com/scanning_matrices/. I used to do it by hand in photoshop and illustrator and it always took forever. So with what little knowledge I have with coding I knew there would be a way to make a simple program to automate this process and this is how I wrote the Image Matrix Generator Python script (with the help of AI code assistants). It spits out the image grids in seconds, saving hours of work. If you need help running this python script, DM me on instagram and I will gladly walk you through it. 
+
+
 ## Features
 - Choose the number of rows and columns for the image grid.
 - Customize the border thickness and color.
