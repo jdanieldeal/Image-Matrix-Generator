@@ -13,17 +13,22 @@
      ```
    - Wait for Python to install.
 
-3. **Write and Save Your Program**:
-   - Use any text editor (like TextEdit) to write your Python code and save it as `script.py`.
+2. **Install Pillow and PyQt5**:
+   - Next, install Pillow and PyQt5 by typing or copy/paste this into the Terminal:
+     ```bash
+     pip install Pillow PyQt5
+     ```
+   - Wait for them to install.
+
 
 4. **Run Your Program**:
-   - Open **Terminal** and navigate to the folder where your script is saved. For example, if it's on your Desktop, type:
+   - Navigate to the folder where your script is saved. For example, if it's in your Downloads folder, type:
      ```bash
-     cd ~/Desktop
+     cd ~/Downloads/Image-Matrix-Generator-1.0/
      ```
    - Then, run the program by typing:
      ```bash
-     python3 script.py
+     python3 image_matrix_generator_1.0.py
      ```
 
 ---
@@ -41,19 +46,24 @@
      ```
    - Windows will guide you to install Python if it’s missing.
 
-3. **Write and Save Your Program**:
-   - Use a text editor like Notepad to write your Python code and save it as `script.py` on your Desktop.
+3. **Install PyQt5 and Pillow**
+
+   For **PyQt5**:
+   ```
+   pip install PyQt5
+   ```
+
+   For **Pillow**:
+   ```
+   pip install Pillow
+   ```
 
 4. **Run Your Program**:
    - Open **Command Prompt** and type:
      ```cmd
-     cd Desktop
+     cd Downloads\Image-Matrix-Generator-1.0\
      ```
    - Then, run your script by typing:
      ```cmd
-     python script.py
+     python image_matrix_generator_1.0.py
      ```
-
----
-
-These steps are simple for both macOS and Windows to get your Python script running!
