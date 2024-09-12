@@ -30,7 +30,7 @@ I create risograph animations (sort of) and part of the process of creating the 
 
 ## How to Use
 
-1. **Input Folder:** Select the folder containing the images you want to use in the matrix. Make sure your images have the same name and a ascending number with it. ex: test_001 , test_002 , test_003 etc.
+1. **Input Folder:** Select the folder containing the images you want to use in the matrix. Make sure your images have the same base name and an ascending number with it. ex: test_001 , test_002 , test_003 etc.
 2. **Output Folder:** Choose the folder where the generated image matrix will be saved.
 3. **Rows and Columns:** Specify the number of rows and columns to arrange the images.
 4. **Base Filename:** Set the base name for the output files.
