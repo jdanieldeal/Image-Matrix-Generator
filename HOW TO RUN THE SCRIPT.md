@@ -1,4 +1,4 @@
-### How to Run a Python Program on macOS and Windows (Simple Steps)
+### How to Run the Python Program on macOS and Windows (Simple Steps)
 
 #### For macOS:
 1. **Check if Python is already installed**:
