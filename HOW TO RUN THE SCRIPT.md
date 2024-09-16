@@ -1,6 +1,6 @@
 ### How to Run the Python Program on macOS and Windows (Simple Steps)
 
-Download raw file **image_matrix_generator_1.0.py** into your Downloads folder
+On the main github page, go to "Code" then Download ZIP. Then unzip the folder, then you will have a folder called "Image-Matrix-Generator-main".
 
 #### For macOS:
 1. **Check if Python is already installed**:
@@ -26,7 +26,7 @@ Download raw file **image_matrix_generator_1.0.py** into your Downloads folder
 4. **Run Your Program**:
    - Navigate to the folder where your script is saved. For example, if it's in your Downloads folder, type:
      ```bash
-     cd ~/Downloads/
+     cd ~/Downloads/Image-Matrix-Generator-main\
      ```
    - Then, run the program by typing:
      ```bash
@@ -63,7 +63,7 @@ Download raw file **image_matrix_generator_1.0.py** into your Downloads folder
 4. **Run Your Program**:
    - Open **Command Prompt** and type:
      ```cmd
-     cd Downloads\
+     cd Downloads\Image-Matrix-Generator-main\
      ```
    - Then, run your script by typing:
      ```cmd
