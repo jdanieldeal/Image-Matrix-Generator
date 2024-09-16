@@ -26,7 +26,7 @@ On the main github page, go to "Code" then Download ZIP. Then unzip the folder, 
 4. **Run Your Program**:
    - Navigate to the folder where your script is saved. For example, if it's in your Downloads folder, type:
      ```bash
-     cd ~/Downloads/Image-Matrix-Generator-main\
+     cd ~/Downloads/Image-Matrix-Generator-main/
      ```
    - Then, run the program by typing:
      ```bash
